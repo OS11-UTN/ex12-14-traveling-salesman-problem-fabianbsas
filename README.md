@@ -1,1 +1,2 @@
-# ex12-14-traveling-salesman-problem-fabianbsas
+# Exercises 12 to 14
+ Fabian Pezet Vila
